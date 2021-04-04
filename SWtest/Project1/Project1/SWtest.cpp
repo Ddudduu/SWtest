@@ -7,6 +7,6 @@ int main() {
 	
 	cout << "new line";
 
-	cout<<"This is user2";
+	cout<<"this is user2";
 	return 0;
 }
