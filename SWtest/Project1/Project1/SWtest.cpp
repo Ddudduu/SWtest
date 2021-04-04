@@ -8,5 +8,7 @@ int main() {
 	cout << "new line";
 
 	cout <<"User2";
+
+	cout<<"User1 Again";
 	return 0;
 }
