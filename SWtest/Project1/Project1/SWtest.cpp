@@ -10,5 +10,7 @@ int main() {
 	cout <<"User2";
 
 	cout<<"User1 Again";
+
+	cout <<"Common code";
 	return 0;
 }
