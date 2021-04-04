@@ -11,6 +11,6 @@ int main() {
 
 	cout<<"User1 Again";
 
-	cout <<"Common code -> user2";
+	cout <<"Common code";
 	return 0;
 }
